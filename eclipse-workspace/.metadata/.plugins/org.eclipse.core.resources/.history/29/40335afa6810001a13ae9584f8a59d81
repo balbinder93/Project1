@@ -1,0 +1,28 @@
+package Programs;
+
+public class Department implements Employee
+{
+	public void main (String args[])
+	{
+		
+		
+	}
+
+	@Override
+	public void salary() {
+		System.out.println("Salary garnted for this month");
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void hrPolicy() {
+		System.out.println("Hr policies are here");
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+	
+
+}

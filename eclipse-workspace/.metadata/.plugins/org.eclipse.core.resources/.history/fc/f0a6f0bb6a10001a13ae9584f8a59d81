@@ -1,0 +1,13 @@
+package Programs;
+
+public class JavaExceptions {
+
+	public static void main(String[] args) 
+	{
+		System.out.println("Start");
+		int divide =10/0;
+		 System.out.println(divide);
+		 System.out.println("End");
+	}
+
+}

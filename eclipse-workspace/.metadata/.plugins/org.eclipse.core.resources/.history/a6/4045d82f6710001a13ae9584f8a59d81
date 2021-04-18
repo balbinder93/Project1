@@ -1,0 +1,10 @@
+package Programs;
+
+public class makeHonda extends Bike
+{
+	public void tyreType()
+	{
+		System.out.println("The tyres are tubeless tyre");
+	}
+
+}
